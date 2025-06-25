@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Matteo Adaggio
 
-Welcome to my GitHub profile! I'm **currently enrolled in the Bachelor's program in Computer Engineering at UniNa**
+Welcome to my GitHub profile! I'm currently enrolled in the **Bachelor's degree in Computer Engineering at UniNa**
 
 I'm deeply enthusiastic about autonomous driving vehicles and the future of smart mobility. I thrive on learning by doing, tackling hands-on projects is my preferred way of mastering new technologies.
 
